@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/appicon.webp" alt="MaxTraff" width="96" height="96">
+  <img src="appicon.webp" alt="MaxTraff" width="96" height="96">
 </p>
 
 <h1 align="center">MaxTraff</h1>
